@@ -1,7 +1,8 @@
 body {
     padding-top: 100px;
     background-color: #90946c;
-  
+    background-image: url(https://i.pinimg.com/originals/91/23/1e/91231e8a9b9b906dc05cfa1494255605.png);
+background-repeat: no-repeat;
     
 }
 
@@ -10,6 +11,7 @@ body {
     justify-content: center;
     background-color: none;
     text-align-last: center;
+  
 }
 header{
  align-content: center;
@@ -20,4 +22,9 @@ header{
     text-decoration-color: rgb(41, 16, 6);
 
     align-items: center;
+}
+
+.container{
+
+    height: fit-content;
 }

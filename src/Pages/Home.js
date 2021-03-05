@@ -9,7 +9,7 @@ function Home() {
         <React.Fragment>
             <main>
                 <div className="container-fluid">
-                    <div className="jumbotron bg-ligth">
+                    <div className="container">
                         <h2 className="mb-4">Seja bem vindo(a)!</h2>
                         <p>Aqui nessa loja <strong>programadores tem desconto</strong> em todos os produtos!!</p>
                     </div>
